@@ -7,8 +7,7 @@ body {
 }
 
 .container {
-    width: 70%;
-    min-width: 450px;
+    width: 40%;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 20%;
@@ -44,9 +43,9 @@ h2 {
     padding: 8px;
     background-color: plum;
     cursor: pointer;
-    border-width: 2px;
+    border-width: 4px;
     font-size: 15px;
-    
+    margin-left: 20px;
 }
 
 #addTask:hover {
